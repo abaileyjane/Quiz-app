@@ -9,7 +9,7 @@ const questionList=[
   "Uh oh! There is an allergy at the table! How do you proceed?",
   "When do we do bread service?",
   "You rang in your food. What should be your immediate next step?",
-  "The guest has ordered dessert. What doesn’t need to be prebussed?",
+  "The guest has ordered dessert. What does not need to be prebussed?",
   "The guest has completed their meal. What is the proper way to deliver their check?",
   "Whew! You had a great shift and are preparing to head home. How many rollups should you do?"
   ];
